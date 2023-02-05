@@ -22,7 +22,7 @@ export default class IntroScene extends Phaser.Scene {
 
         this.input.on('pointerdown', () => this.scene.start('Credits'));
 
-        this.game.config.level = 4;
+        this.game.config.level = 1;
         this.game.config.carrots = 0;
         this.game.config.horse = 0;
 
