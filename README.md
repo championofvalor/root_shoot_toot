@@ -1,15 +1,6 @@
-# rpg
-RPG starter template in Phaser
+# root_shoot_toot
 
-Created by Michael Ellis
-Hosted at:
-https://www.championofvalor.com/template/
-
-This is a basic RPG template, designed to distill some of my Phaser (JS) experience into a playable "game".
-I wanted to provide this to the world, as a launchpad for HTML5 gaming.
-
-The foundation of this template is found here:
-https://github.com/photonstorm/phaser3-project-template
+The rootinest tootenist game around! Action hero McBoot the Astute Pi-root goes to free the land of Yellow and Blue Flowers. A fierce Newt is in cahoots with The Great Hoot Brute and it’s hootlets. They are determined to destitute the land and take all the fruit and root vegetables for their own! Armed with carrots and horseradish can our hero uproot and shoot and toot enough to save the land and the fruit loot?! 
 
 Enjoy!
 
